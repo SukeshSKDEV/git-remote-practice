@@ -1,2 +1,1 @@
-# git-remote-practice
-learn how collaboration happened
+Remote collaboration practice: change made by developer two.
